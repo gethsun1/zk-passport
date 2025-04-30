@@ -1,5 +1,9 @@
 # ZKPass Twitter Passport Proof Flow
 
+[![Screenshot-from-2025-04-30-21-35-07.png](https://i.postimg.cc/L8ypgmk0/Screenshot-from-2025-04-30-21-35-07.png)](https://postimg.cc/4YhMrkSz)
+
+---
+
 A React application demonstrating the ZKPass Twitter Passport proof generation flow, built with React, TypeScript, and Vite.
 
 ## Features
